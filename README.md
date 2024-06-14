@@ -20,7 +20,7 @@ Horiseon Social Solution Services
 
 ## License
 
-Please refer to the LISENCE in the repo.
+Please refer to the LICENSE in the repo.
 
 ## Badges
 
